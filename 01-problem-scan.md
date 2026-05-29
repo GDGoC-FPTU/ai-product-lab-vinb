@@ -1,4 +1,7 @@
-# Phase 1 — SCAN & Phase 2 — QUICK-ASSESS (Học viên: kay0911)
+# Phase 1 — SCAN & Phase 2 — QUICK-ASSESS
+
+> **Họ và tên:** [Trần Duy Khánh]  
+> **MSSV:** [2A202600592] 
 
 Tài liệu này thể hiện tư duy độc lập tìm kiếm và đánh giá bài toán ứng dụng AI tại các đơn vị thành viên của Vingroup, cụ thể tập trung vào **GSM (Xanh SM) — Vận hành xe taxi/xe máy điện thông minh**.
 
